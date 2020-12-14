@@ -1,4 +1,4 @@
-# plants_disease_classify
+# plants_disease_classify_pytorch
 
 
 **背景**
@@ -8,6 +8,8 @@ pytorch 进行图像分类的代码（[从实例掌握 pytorch 进行图像分�
 **数据**
 
 <img src="https://pic2.zhimg.com/80/v2-1fa8dc0c244e0992041244101a7422bc_720w.jpg">
+
+<img src="https://s1.ax1x.com/2020/09/24/0pyoJx.jpg">
 
 新增数据集下载链接：[百度网盘]( https://pan.baidu.com/s/19pgCvmKR2beYFfl0DwRFWw  ) 提取码：yae4
 包含训练集、验证集、测试集A/B.
@@ -28,8 +30,6 @@ pytorch 进行图像分类的代码（[从实例掌握 pytorch 进行图像分�
 
 
 比赛地址（已失效）：[农作物病害检测](https://challenger.ai/competition/pdr2018)
-
-完整代码地址：[plants_disease_detection](https://github.com/spytensor/plants_disease_detection)
 
 **成绩**：线上 0.8805，线下0.875，由于划分存在随机性，可能复现会出现波动。
 
@@ -74,12 +74,8 @@ pytorch 进行图像分类的代码（[从实例掌握 pytorch 进行图像分�
 
 训练集
 
-![train](http://www.spytensor.com/images/plants/train.png)
+![train](https://s1.ax1x.com/2020/09/24/0p6nf0.png)
 
 验证集
 
-![val](http://www.spytensor.com/images/plants/val.png)
-
-全部数据集
-
-![all](http://www.spytensor.com/images/plants/all.png)
+![validation](https://s1.ax1x.com/2020/09/24/0p6Q6U.png)
