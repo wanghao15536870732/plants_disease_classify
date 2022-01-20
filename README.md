@@ -79,3 +79,6 @@ pytorch 进行图像分类的代码（[从实例掌握 pytorch 进行图像分�
 验证集
 
 ![validation](https://s1.ax1x.com/2020/09/24/0p6Q6U.png)
+
+### 7. 参考
+[Ai Challenger 2018 Competitions 农作物病害检测](https://github.com/spytensor/plants_disease_detection)
